@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sen-17
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning HTML, CSS , JS
+- 🌱 I’m currently learning Full Stack Web 
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 
