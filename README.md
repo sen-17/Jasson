@@ -1,8 +1,8 @@
 # Hi, I'm Jasson 👋   
-👋 Beginner Python developer | 🐍 Still learning and growing every day
-🎓 Currently studying programming and exploring new tech
-🛠️ Building small projects to improve my skills
-🌱 Learning in public — open to feedback and collaboration!
+-👋 Beginner Python developer | 🐍 Still learning and growing every day
+-🎓 Currently studying programming and exploring new tech
+-🛠️ Building small projects to improve my skills
+-🌱 Learning in public — open to feedback and collaboration!
 
 ### My Projects  
 - [Python Quiz](https://github.com/sen-17/Python-Quiz)
